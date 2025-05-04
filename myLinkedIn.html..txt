@@ -1,0 +1,13 @@
+<html>
+	<head>
+	<meta charset="UTF-8">
+    	<title>My LinkedIn Profile</title>
+	</head>
+	<body>
+    	<h1>Visit My LinkedIn</h1>
+    	<p><a href="https://www.linkedin.com/in/huy-t-bui/" target="_blank">
+            Click here to view my LinkedIn profile
+     	</a>
+    	</p>
+	</body>
+</html>
